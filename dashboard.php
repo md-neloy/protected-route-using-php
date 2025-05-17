@@ -15,8 +15,8 @@
             <p class="text-gray-600 mb-6">This is your dashboard. Only logged-in users can see this.</p>
 
             <div class="flex flex-col gap-4">
-                <a href="page2.php" class="bg-blue-500 hover:bg-blue-600 text-white py-2 px-4 rounded-xl transition duration-200">
-                    Go to Page 2
+                <a href="aboutme.php" class="bg-blue-500 hover:bg-blue-600 text-white py-2 px-4 rounded-xl transition duration-200">
+                    visit About me page
                 </a>
                 <a href="logout.php" class="bg-red-500 hover:bg-red-600 text-white py-2 px-4 rounded-xl transition duration-200">
                     Logout
