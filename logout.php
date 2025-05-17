@@ -15,7 +15,7 @@ session_destroy();
     <div class="bg-white p-8 rounded-2xl shadow-lg text-center w-full max-w-md">
         <h2 class="text-2xl font-bold text-gray-800 mb-4">You have been logged out</h2>
         <p class="text-gray-600 mb-6">Thank you for visiting. You can log in again below.</p>
-        <a href="login.php"
+        <a href="index.php"
            class="inline-block bg-blue-500 hover:bg-blue-600 text-white px-6 py-2 rounded-xl transition duration-200">
             Return to Login
         </a>
